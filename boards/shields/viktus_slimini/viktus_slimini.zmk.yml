@@ -1,0 +1,9 @@
+file_format: "1"
+id: viktus_slimini
+name: Viktus Slimini
+type: shield
+url: https://github.com/blindassassin111
+requires: [pro_micro]
+features:
+  - keys
+  - bluetooth
