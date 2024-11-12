@@ -6,4 +6,4 @@ url: https://github.com/blindassassin111
 requires: [pro_micro]
 features:
   - keys
-  - bluetooth
+  - studio
